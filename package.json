@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ducphancsci/learn-node#readme",
   "dependencies": {
-    "async": "^2.6.2"
+    "async": "^2.6.2",
+    "mine": "^0.1.0"
   }
 }
